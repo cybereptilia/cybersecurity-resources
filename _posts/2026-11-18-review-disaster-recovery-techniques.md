@@ -3,6 +3,7 @@ layout: post
 title: "Paper Review – Disaster Recovery Plan: Restoring IT Systems After Cyberattacks"
 date: 2026-11-18 09:00:00 -0400
 categories: [paper-review, disaster-recovery]
+excerpt: "A review of Nawrocka (2026), which compares backups, redundancy, virtualization, and cloud-based recovery for restoring IT systems after a cyberattack."
 ---
 
 ## Bibliography
