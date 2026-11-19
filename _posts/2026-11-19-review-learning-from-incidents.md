@@ -3,6 +3,7 @@ layout: post
 title: "Paper Review – Incident Response Planning: Learning from Cyber Security Incidents"
 date: 2026-11-19 09:00:00 -0400
 categories: [paper-review, incident-response]
+excerpt: "A review of Patterson, Nurse, and Franqueira (2023), a systematic review of how organizations learn from cyber security incidents."
 ---
 
 ## Bibliography
